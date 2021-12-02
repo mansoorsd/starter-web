@@ -12,3 +12,5 @@ Starting a simple website
 Sample website with plenty of files for demos
 
 ## Deployment
+
+Deployed by using Github
