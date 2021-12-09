@@ -16,3 +16,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Deployed by using Github
+
+### Copyright
+
+Mansoor 2021 
