@@ -17,6 +17,10 @@ Sample website with plenty of files for demos
 
 Deployed by using Github
 
+## How to Continue
+
+Please fork this repository and then issue Pull requests for review.
+
 ### Copyright
 
 Mansoor 2021 
