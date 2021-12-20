@@ -25,4 +25,4 @@ Please fork this repository and then issue Pull requests for review.
 
 ### Copyright
 
-Mansoor 2021 
+Mansoor 2021. All right reserved
