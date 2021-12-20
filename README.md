@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 one more
-one more
+Updating a fix
 # Adding a line for learning rebasing,
 more changes for my feature branch
 ## Introduction 
