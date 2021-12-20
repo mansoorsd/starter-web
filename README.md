@@ -4,7 +4,8 @@ This repository is for showing how Git and GitHub work
 
 one more
 one more
-# Adding a line for learning rebasing
+# Adding a line for learning rebasing,
+more changes for my feature branch
 ## Introduction 
 
 Starting a simple website
