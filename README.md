@@ -22,7 +22,7 @@ Deployed by using Github
 ## How to Continue
 
 Please fork this repository and then issue Pull requests for review.
-
+Editing on mac
 ### Copyright
 
 Mansoor 2021. All right reserved
